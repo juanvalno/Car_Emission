@@ -1,0 +1,1 @@
+Menggunakan Algoritm ML yaitu Neural Network (NN), NN adalah salah satu algoritm ML belum nyampe ke DL
